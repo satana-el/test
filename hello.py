@@ -1,3 +1,3 @@
-name = input("What's your name? ")
-print("HELLO,", name.upper(), "!")
+name = input("What's your name? ").upper()
+print("HELLO,", name, "!")
 print("goodbye, world")
